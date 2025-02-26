@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\IIT\\Academics\\Level 4\\Sem 2\\SD 2\\CW\\W2053123_PlaneManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\IIT\\Academics\\Level 4\\Sem 2\\SD 2\\CW\\W2053123_PlaneManagement\\src\\PlaneManagement.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\PlaneManagement.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlaneManagement.java",
+              "DocumentMoniker": "D:\\IIT\\Academics\\Level 4\\Sem 2\\SD 2\\CW\\W2053123_PlaneManagement\\src\\PlaneManagement.java",
+              "RelativeDocumentMoniker": "src\\PlaneManagement.java",
+              "ToolTip": "D:\\IIT\\Academics\\Level 4\\Sem 2\\SD 2\\CW\\W2053123_PlaneManagement\\src\\PlaneManagement.java",
+              "RelativeToolTip": "src\\PlaneManagement.java",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABUAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADFSURBVDhPY\u002BSo\u002BfWfgUzwo5mVgQFqAFkYpJcJyKAIoBhw//59OEYGwcHBDIcPH4byUAGKARUVFQwKCgoMsbGxUBEI4OHhYZCRkYHyUAGKAS9fvgTTT548AdPEAOqGgbi4OJiGOTc5OZnBxMSEISAggOHLly9gMQyAHI3IAMTfvHkzmP39\u002B/f/wICEq4NhsF5C6UBAQOA/CwsLVjmi0sGHDx8Y/vz5A\u002BVhAuoGIsjr2DA\u002BgGIAIyMjVowPUOwFirIzAwMDAwAvi4ND4lFOVgAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-09-11T07:53:46.865Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
